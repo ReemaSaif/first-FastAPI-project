@@ -1,6 +1,8 @@
 # first-FastAPI-project
 
-## A simple FastAPI project for learning how to build and run an API with Python.
+
+## A simple FastAPI project for learning how to build and run an API in Python.
+
 
 ## How to Run (Open Command Prompt in the Terminal):
 
