@@ -41,13 +41,13 @@ uvicorn app:app
 ```
 
 
-**The API will start locally. You can open:**
+#### **The API will start locally. You can open:**
 
 ```bash
 http://127.0.0.1:8000
 ```
 
-**API Endpoints:**
+### **API Endpoints:**
 
 - **GET /home** — Returns a welcome message.
 
@@ -61,4 +61,5 @@ http://127.0.0.1:8000
 
 **You can also view the interactive API documentation at:**
 
-http://127.0.0.1:8000/docs
+[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
