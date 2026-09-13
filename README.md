@@ -50,11 +50,13 @@ http://127.0.0.1:8000
 **API Endpoints:**
 
 * GET /home — Returns a welcome message.
+
   ```bash
 http://127.0.0.1:8000/home
 ```
 
 * GET /time — Returns the current date and time.
+
 ```bash
 http://127.0.0.1:8000/time
 ```
